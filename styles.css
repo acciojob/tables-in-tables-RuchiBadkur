@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+table, th, td{
+	border: 1px solid black;
+	text-align: center;
+}
+
+table{
+	display: flex;
+/* 	justify-content: center; */
+	align-items: center;
+}
+
+.text{
+	background-color: black;
+	color: white;
+}
